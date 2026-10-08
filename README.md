@@ -3,10 +3,11 @@
 Programa para consultar a média do aluno, com resultado em Aprovado ou Reprovado.
 
 ## Como funciona
+Python main.py 
 
 O programa solicita duas notas do aluno, calcula a média e informa o resultado. 
 
-## linguagens ultilizada 
+## linguagem ultilizada 
 ***Python***
 
 ## Exemplo 
