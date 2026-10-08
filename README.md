@@ -1,4 +1,4 @@
-# Sistema de calculadora de media 
+# Sistema calculadora media 
 
 Programa para consultar a média do aluno, com resultado em Aprovado ou Reprovado.
 
